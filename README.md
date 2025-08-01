@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azmy Ahmed</h1>
 <h3 align="center">Senior Frontend Developer | Angular Expert from Egypt</h3>
 
-<br>🔭 I’m currently working on Ja3an Brand Food Industry<br><br>🌱 I’m currently learning React And Nextjs<br><br>👨‍💻 All of my projects are available at https://azmy-profile.vercel.app/portfolio<br><br>📝 I regularly write articles on https://azmy-profile.vercel.app/portfolio<br><br>💬 Ask me about Angular , React And Nextjs<br><br>📫 How to reach me azmyahmedbasuony@gmail.com<br><br>📄 Know about my experiences https://azmy-profile.vercel.app/portfolio
+<br>🔭 I’m currently Intenrnship Trainee at ITI<br><br>🌱 I’m currently learning React And Nextjs<br><br>👨‍💻 All of my projects are available at https://azmy-profile.vercel.app/portfolio<br><br>📝 I regularly write articles on https://azmy-profile.vercel.app/portfolio<br><br>💬 Ask me about Angular , React And Nextjs<br><br>📫 How to reach me azmyahmedbasuony@gmail.com<br><br>📄 Know about my experiences https://azmy-profile.vercel.app/portfolio
 
 
 ## 🌐 Socials:
